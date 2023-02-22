@@ -7,6 +7,7 @@
     <RootNamespace>weather_api</RootNamespace>
     <UserSecretsId>7f1c1acf-8894-4f46-ac1b-31b80c3a3174</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..</DockerfileContext>
   </PropertyGroup>
 
   <ItemGroup>
